@@ -1,4 +1,4 @@
-# TC5061 · Experimentación con MLflow — Costos de seguro médico
+# Experimentación con MLflow — Costos de seguro médico
 
 **Autor:** Manuel Alejandro Cardona Esquivel | A01795954
 
@@ -88,9 +88,6 @@ mlflow ui --backend-store-uri sqlite:///mlflow.db
 ```
 
 Abrir http://127.0.0.1:5000 → experimento **TC5061_Costos_Seguro_Medico** → seleccionar las corridas → **Compare**.
-
-Si ya tienes un servidor de MLflow levantado, apunta el script a él:
-`python train.py --tracking-uri http://127.0.0.1:5000`.
 
 ## Reproducibilidad
 
