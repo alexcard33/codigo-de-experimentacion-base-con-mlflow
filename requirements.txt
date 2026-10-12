@@ -1,0 +1,11 @@
+# Python 3.11+ (probado con Python 3.13)
+# Entrenamiento y seguimiento
+mlflow==3.17.0
+scikit-learn==1.9.1
+skops==0.16.0
+pandas==3.0.5
+numpy==2.5.3
+matplotlib==3.11.2
+# Solo para el notebook de exploración
+seaborn==0.13.2
+ipykernel==7.4.0

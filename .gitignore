@@ -1,0 +1,11 @@
+# Almacén local de MLflow (cada quien genera el suyo al correr el script)
+mlflow.db
+mlruns/
+mlartifacts/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
